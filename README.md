@@ -54,6 +54,15 @@ docker-compose up --build
 * [Redis](https://redis.io/)           -  Used for caching the results.
 * [nodejs](https://nodejs.org/en/)      -  Used as the js runtime.
 
+
+# Docker to Compile the untrusted Code
+ 
+![0_b5nUwRORQHHapD1r](https://user-images.githubusercontent.com/93249038/216220706-bdf036cc-5a84-4541-830b-8f81c84d0914.png)
+
+#Dockerfile reference
+ https://docs.docker.com/engine/reference/builder/
+ 
+ 
 ## Acknowledgments
 
 * https://www.youtube.com/user/GISIGeometry 
