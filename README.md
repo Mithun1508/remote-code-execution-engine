@@ -15,6 +15,20 @@ These instructions will get you a copy of the project up and running on your loc
 * docker
 * docker-compose
 
+# Business requirements
+
+1) Low latency.
+
+2)Resilient to malicious programs.
+
+3)High availability.
+
+4)Asynchronous.
+
+# HIGH LEVEL DESIGN
+![1](https://user-images.githubusercontent.com/93249038/216220208-1875f968-945f-4777-8a79-63d76d775816.jpg)
+
+
 ### Installation
 
 1. Clone the repo
